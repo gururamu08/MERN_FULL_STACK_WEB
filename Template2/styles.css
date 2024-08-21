@@ -9,7 +9,7 @@ body {
 
 /* Navbar Styles */
 .navbar {
-    background-color: #fff;
+    background-color: #483f3f;
     padding: 10px 0;
     border-bottom: 1px solid #ddd;
     position: sticky;
@@ -27,7 +27,7 @@ body {
 .navbar .logo {
     font-size: 24px;
     font-weight: bold;
-    color: #72356b;
+    color: #af2ca0;
     text-decoration: none;
 }
 
@@ -42,7 +42,7 @@ body {
 }
 
 .navbar .nav-links a {
-    color: #72356b;
+    color: #7f0b71;
     text-decoration: none;
     font-size: 16px;
 }
@@ -66,7 +66,7 @@ body {
 
 .hero-text h1 {
     font-size: 36px;
-    color: #72356b;
+    color: #c143b2;
 }
 
 .hero-text h1 span {
@@ -96,7 +96,7 @@ body {
 }
 
 .search-btn {
-    background-color: #72356b;
+    background-color: #b035a2;
     color: #fff;
     border: none;
 }
@@ -109,7 +109,7 @@ body {
 }
 
 .destinations h2 {
-    color: #72356b;
+    color: #a82698;
     font-size: 28px;
 }
 
